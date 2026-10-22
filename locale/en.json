@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Traditional Chinese (TW) language pack",
+    "description": "Adds 繁體中文（台灣）to the language selector by converting the shipped Simplified UI dictionary of DSH with OpenCC; uncovered strings fall back to the built-in Chinese."
+  }
+}
